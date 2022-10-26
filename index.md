@@ -11,6 +11,10 @@ layout: home
 <h2 class="post-header">En son videolar</h2>
 
 <div class="embed-container">
+<iframe width="640" height="390" src="https://www.youtube.com/embed/krts_semjas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+<div class="embed-container">
 <iframe width="640" height="390" src="https://www.youtube.com/embed/DiaODUtEtmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
@@ -24,9 +28,5 @@ layout: home
 <br>
 <div class="embed-container">
 <iframe width="640" height="390" src="https://www.youtube.com/embed/0sONt7JufTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<br>
-<div class="embed-container">
-<iframe width="640" height="390" src="https://www.youtube.com/embed/xoP2NdaOts8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
