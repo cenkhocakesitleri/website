@@ -11,22 +11,22 @@ layout: home
 <h2 class="post-header">En son videolar</h2>
 
 <div class="embed-container">
-<iframe width="640" height="390" src="https://www.youtube.com/embed/2oWap8eDTCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="390" src="https://www.youtube.com/embed/i-BFA06zgzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 <div class="embed-container">
-<iframe width="640" height="390" src="https://www.youtube.com/embed/BUXcVqUSqCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="390" src="https://www.youtube.com/embed/OMz7qbInNIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 <div class="embed-container">
-<iframe width="640" height="390" src="https://www.youtube.com/embed/Tino67TKojs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="390" src="https://www.youtube.com/embed/DoX92UTUoWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 <div class="embed-container">
-<iframe width="640" height="390" src="https://www.youtube.com/embed/whVNKwq2v80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="390" src="https://www.youtube.com/embed/Jq7olIZrhEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 <div class="embed-container">
-<iframe width="640" height="390" src="https://www.youtube.com/embed/YtZ5fLktmSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="390" src="https://www.youtube.com/embed/VLLyyfOzX3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
